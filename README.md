@@ -13,4 +13,9 @@ The project consists of a single webpage for a gym website. It includes:
 - HTML
 - CSS
 
+## Preview
+
+![Gym Website Preview](https://github.com/SayeeZ/Gym-Website/blob/main/HomePage.png)
+
+
 
